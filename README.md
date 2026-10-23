@@ -2,9 +2,13 @@
 English subtitles (ass) for the mini-anime shorts of Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei Naru Musouroku (『凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録』).
 
 📺 Anime Information
+
 Original Title: 『凶乱令嬢ニア・リストン』ミニアニメ
+
 English Title: The Do-Over Mastermind Maiden Nia Liston / Frenzied Lady Nia Liston (Mini Anime)
+
 Format: Advanced SubStation Alpha (.ass)
+
 Language: English
 
 📂 Episode List
