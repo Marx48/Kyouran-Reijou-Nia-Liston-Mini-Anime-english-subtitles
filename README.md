@@ -16,6 +16,7 @@ Language: English
 EP1	『番宣リハーサル』	"Promo Rehearsal"	Episode_01_EN.ass
 
 🛠️ How to Use
+
 Download the .ass file for the desired episode from this repository.
 
 Ensure the subtitle file has the exact same name as your video file (or load it manually in media players like VLC, MPC-HC, or mpv).
