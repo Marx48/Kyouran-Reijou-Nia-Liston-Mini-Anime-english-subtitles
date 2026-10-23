@@ -19,6 +19,7 @@ For the best visual experience (custom typesetting, title styling, and color ove
 
 🤝 Credits & Notes
 Typesetting & Translation: Marx48
+
 Original Work: Minamino Umikaze / HJ Bunko
 https://www.youtube.com/watch?v=RZbNPPCly24
 
