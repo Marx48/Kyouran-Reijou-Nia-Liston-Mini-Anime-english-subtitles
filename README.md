@@ -24,6 +24,7 @@ Ensure the subtitle file has the exact same name as your video file (or load it 
 For the best visual experience (custom typesetting, title styling, and color overlays), use a video player that supports Advanced SubStation Alpha (.ass) rendering.
 
 🤝 Credits & Notes
+
 Typesetting & Translation: Marx48
 
 Original Work: Minamino Umikaze / HJ Bunko
