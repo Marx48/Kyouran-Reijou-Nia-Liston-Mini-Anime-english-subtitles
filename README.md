@@ -9,6 +9,7 @@ Language: English
 
 📂 Episode List
 EP1	『番宣リハーサル』	"Promo Rehearsal"	Episode_01_EN.ass
+
 🛠️ How to Use
 Download the .ass file for the desired episode from this repository.
 
@@ -19,5 +20,6 @@ For the best visual experience (custom typesetting, title styling, and color ove
 🤝 Credits & Notes
 Typesetting & Translation: Marx48
 Original Work: Minamino Umikaze / HJ Bunko
+https://www.youtube.com/watch?v=RZbNPPCly24
 
 Feel free to report any issues or suggestions via GitHub Issues!
