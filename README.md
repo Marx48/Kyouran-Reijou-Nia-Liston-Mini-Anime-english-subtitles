@@ -11,10 +11,6 @@ Format: Advanced SubStation Alpha (.ass)
 
 Language: English
 
-📂 Episode List
-
-EP1	『番宣リハーサル』	"Promo Rehearsal"	Episode_01_EN.ass
-
 🛠️ How to Use
 
 Download the .ass file for the desired episode from this repository.
